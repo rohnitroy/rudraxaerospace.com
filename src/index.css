@@ -186,7 +186,7 @@ footer p {
 @media (max-width: 768px) {
   .top-pattern {
     max-width: 150px;
-    right: -40px;
+    right: -160px;
   }
 
   :root {
