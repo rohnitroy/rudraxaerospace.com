@@ -9,7 +9,7 @@ Key facts:
 - Focus: autonomous UAV systems for tactical and strategic operations
 - Areas: mission-critical defence and offence capabilities, surveillance, advanced data R&D
 - Status: pre-launch; no products, pricing or contact channels are published yet
-- Data: the website collects no personal data, sets no cookies and uses no analytics
+- Data: the website collects no personal data and sets no cookies; it uses cookieless, anonymous Vercel Web Analytics
 
 ## Pages
 

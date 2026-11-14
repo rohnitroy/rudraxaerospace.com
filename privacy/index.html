@@ -41,6 +41,10 @@
 
     <link rel="stylesheet" href="/src/index.css" />
     <link rel="stylesheet" href="/src/privacy.css" />
+    <script type="module">
+      import { inject } from '@vercel/analytics'
+      inject()
+    </script>
   </head>
   <body>
     <div class="doc">
@@ -62,7 +66,7 @@
             <li><a href="#overview">Overview</a></li>
             <li><a href="#collect">Information we collect</a></li>
             <li><a href="#technical">Technical data</a></li>
-            <li><a href="#cookies">Cookies and tracking</a></li>
+            <li><a href="#cookies">Cookies and analytics</a></li>
             <li><a href="#use">How information is used</a></li>
             <li><a href="#third-parties">Third-party services</a></li>
             <li><a href="#children">Children</a></li>
@@ -96,20 +100,21 @@
           </section>
 
           <section id="cookies">
-            <h2><span>04</span>Cookies and tracking</h2>
-            <p>The Website does not set cookies. It does not use analytics, advertising pixels, social media trackers or any other tracking technology.</p>
+            <h2><span>04</span>Cookies and analytics</h2>
+            <p>The Website does not set cookies. It does not use advertising pixels, social media trackers or cross-site tracking.</p>
+            <p>We use <strong>Vercel Web Analytics</strong> to count page visits in aggregate. It does not use cookies and does not store your IP address. It records anonymous information such as the page viewed, the referring website, your country, and your device, browser and operating system type. Visitors are not identified and are not tracked across days or across other websites.</p>
           </section>
 
           <section id="use">
             <h2><span>05</span>How information is used</h2>
-            <p>The limited technical data described above is used only to operate and secure the Website. We do not sell, rent or trade any information, and we do not use it for marketing.</p>
+            <p>The limited technical data described above is used only to operate and secure the Website, and the anonymous analytics only to understand how many people visit and which pages they read. We do not sell, rent or trade any information, and we do not use it for marketing.</p>
           </section>
 
           <section id="third-parties">
             <h2><span>06</span>Third-party services</h2>
             <p>We rely on a small number of service providers to run the Website:</p>
             <ul>
-              <li><strong>Vercel Inc.</strong> hosts the Website and processes the technical data described in section 03. See <a href="https://vercel.com/legal/privacy-policy" rel="noopener" target="_blank">Vercel's privacy policy</a>.</li>
+              <li><strong>Vercel Inc.</strong> hosts the Website, processes the technical data described in section 03 and provides the anonymous analytics described in section 04. See <a href="https://vercel.com/legal/privacy-policy" rel="noopener" target="_blank">Vercel's privacy policy</a>.</li>
               <li><strong>Google Fonts</strong> supplies the typefaces used on the Website. When a page loads, your browser requests the font files from Google's servers, which receive your IP address as part of that request. See <a href="https://policies.google.com/privacy" rel="noopener" target="_blank">Google's privacy policy</a>.</li>
             </ul>
             <p>These providers process data under their own privacy policies. If the Website adds links to other websites in future, we are not responsible for how those websites handle your information.</p>

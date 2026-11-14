@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import './App.css'
 import logoSrc from './assets/rudrax-logo-white.png'
 
@@ -162,6 +163,7 @@ function App() {
 
   return (
     <>
+      <Analytics />
       {!skipLoader && <Preloader onReveal={setReady} />}
 
       <main className={ready ? 'app is-ready' : 'app'}>
