@@ -1,0 +1,17 @@
+# RudraX Aerospace
+
+> RudraX Aerospace engineers autonomous unmanned aerial vehicle (UAV) systems for tactical and strategic operations: defence and offence capabilities, surveillance and vigilance, and advanced data research and development. Tagline: "Securing the Skies. Advancing the Future." The company is preparing for launch; the website is currently informational only.
+
+Key facts:
+
+- Name: RudraX Aerospace
+- Website: https://www.rudraxaerospace.com/
+- Focus: autonomous UAV systems for tactical and strategic operations
+- Areas: mission-critical defence and offence capabilities, surveillance, advanced data R&D
+- Status: pre-launch; no products, pricing or contact channels are published yet
+- Data: the website collects no personal data, sets no cookies and uses no analytics
+
+## Pages
+
+- [Home](https://www.rudraxaerospace.com/): company overview and launch announcement
+- [Privacy Policy](https://www.rudraxaerospace.com/privacy): how the website handles visitor information

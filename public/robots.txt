@@ -1,0 +1,6 @@
+# All search engines and AI crawlers (GPTBot, ClaudeBot, PerplexityBot,
+# Google-Extended, etc.) are welcome. Add a Disallow block here to opt one out.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.rudraxaerospace.com/sitemap.xml

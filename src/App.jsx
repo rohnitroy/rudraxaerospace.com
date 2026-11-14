@@ -187,8 +187,11 @@ function App() {
           </div>
         </section>
 
-        <footer>
+        <footer className="site-footer">
           <p>© 2026 RUDRAX AEROSPACE. All rights reserved.</p>
+          <nav aria-label="Footer">
+            <a href="/privacy">Privacy Policy</a>
+          </nav>
         </footer>
       </main>
     </>
